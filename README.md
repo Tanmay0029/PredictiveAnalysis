@@ -117,12 +117,6 @@ Open the URL displayed in your browser to interact with the dashboard.
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to fork, enhance, and share!
-
----
-
 ## ❤️ Thanks & Connect
 
 Built with ❤️ by Tanmay.
